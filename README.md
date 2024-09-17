@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Yash Patoliya</h1>
 <h3 align="center">A Full Stack developer from India.</h3>
 
-- 🌱 I’m currently learning **React js and Dsa**
+- 🌱 I’m currently learning **Next js and Dsa**
 
-- 💬 Ask me about **Node js, Express js**
+- 💬 Ask me about **Node js, Express js, React js**
 
 - 📫 How to reach me **yashpatoliya14@gmail.com**
 
