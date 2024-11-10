@@ -1,73 +1,31 @@
-<h3 align="center">Hi, I am Yash Patoliya 👋</h3>
-<br>
+<h1 align="center" style="color: #fff;">Hi, I'm Yash Patoliya</h1>
+<h3 align="center" style="color: #ccc;">A Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Python** and **DSA**
-- 📫 How to reach me: **yashpatoliya14@gmail.com**
-<br>
+- 🌱 I’m currently learning **Next.js** and **Data Structures & Algorithms**  
+- 💬 Ask me about **Node.js**, **Express.js**, and **React.js**  
+- 📫 Reach me at **[yashpatoliya14@gmail.com](mailto:yashpatoliya14@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/Yash-Patoliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatoliya" height="30" width="40" /></a>
-  <a href="https://instagram.com/yashpatoliya14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash patoliya" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/yashpatoliya14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash patoliya" height="30" width="40" /></a>
-</p>
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="imgs/mat.png" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="imgs/sns.png" height="40" alt="sns logo" />
-  <img width="15" />
-  <img src="imgs/pandas.png" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="imgs/jupyter.png" height="40" alt="jupyter logo" />
-</div>
-<br>
-
+### Connect with me:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hetbhalani&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <a href="https://linkedin.com/in/yash-patoliya" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Yash Patoliya LinkedIn" height="30" width="120" />
+  </a>
+  <a href="https://www.leetcode.com/yashpatoliya14" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-blue?logo=leetcode&logoColor=white&style=for-the-badge" alt="Yash Patoliya LeetCode" height="30" width="120" />
+  </a>
 </p>
 
-### 📊 GitHub Stats:
+### Languages and Tools:
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" height="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" height="40" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="SQL Server" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" height="40" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=hetbhalani&theme=dark&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=9B59B6&dates=C9D1D9&sideNums=9B59B6&fire=9B59B6&ring=9B59B6&stroke=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<br>
-
-![Footer Image](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
