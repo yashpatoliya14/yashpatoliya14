@@ -12,7 +12,7 @@
 </p>
 
 <a href="https://github.com/yashpatoliya14">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;AI/ML+Enthusiast;" alt="Typing SVG" />
 </a>
 
 </div>
