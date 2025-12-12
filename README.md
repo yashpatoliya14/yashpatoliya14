@@ -23,7 +23,6 @@ A passionate developer from India 🇮🇳, crafting robust web applications and
 
 -   🌱 I’m currently diving deep into **Machine Learning** and advanced **Web Development** concepts.
 -   👨‍💻 All of my projects are available at [github.com/yashpatoliya14](https://github.com/yashpatoliya14)
--   💬 Ask me about **React, Node.js, Python,** and how to integrate ML models into web apps.
 -   📫 How to reach me: **yashpatoliya14@gmail.com**
 
 <br>
