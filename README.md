@@ -105,6 +105,3 @@ Here's a breakdown of the technologies I work with.
   <img src="http://github-readme-streak-stats.herokuapp.com?user=yashpatoliya14&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
 </p>
 
-<br>
-<img src="https://github.com/user-attachments/assets/be968ad4-1bc4-4108-9008-c91c602d05c7" width="100%">
-<br>
