@@ -99,9 +99,4 @@ Here's a breakdown of the technologies I work with.
   </tr>
 </table>
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=yashpatoliya14&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
-</p>
 
