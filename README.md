@@ -48,7 +48,7 @@ Here's a breakdown of the technologies I work with.
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/NEXT_JS-06B6D4?style=for-the-badge&logo=nextdotjss&logoColor=white" />
+      <img src="https://img.shields.io/badge/NEXT_JS-06B6D4?style=for-the-badge&logo=nextdotjss&logoColor=black" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -93,8 +93,8 @@ Here's a breakdown of the technologies I work with.
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/SUPABASE-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/FIREBASE-47A248?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/SUPABASE-47A248?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/FIREBASE-47A248?style=for-the-badge&logo=firebase&logoColor=white" />
     </td>
   </tr>
 </table>
