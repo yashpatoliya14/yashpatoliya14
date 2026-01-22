@@ -48,7 +48,7 @@ Here's a breakdown of the technologies I work with.
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/NEXT_JS-06B6D4?style=for-the-badge&logo=nextdotjss&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -59,7 +59,7 @@ Here's a breakdown of the technologies I work with.
   <tr>
     <td align="center"><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/NEST_JS-06B6D4?style=for-the-badge&logo=nestdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
