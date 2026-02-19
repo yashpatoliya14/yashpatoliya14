@@ -84,7 +84,7 @@ Here's a breakdown of the technologies I work with.
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=for-the-badge&logo=PyTorch&logoColor=Blue" />
     </td>
   </tr>
   <tr>
